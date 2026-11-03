@@ -73,10 +73,9 @@ user allows this unnotarized app through macOS's normal security controls. This
 session does not bypass those controls or claim App Store readiness.
 
 A built Python wheel and source distribution accompany the Mac artifact. CI is
-configured for macOS/Ubuntu with Python 3.11/3.13. Remote CI results, once observed,
-are recorded in `ci-result.json`; a configuration file alone is not a green run.
+configured for macOS/Ubuntu with Python 3.11/3.13. All four real CI jobs passed: Ubuntu/macOS × Python 3.11/3.13, covering the 15 non-inference tests, build, built-wheel installation and CLI smoke check. The real inference test remains a separate locally executed check. See [the observed run](ci-result.json), tested at source commit `39e48ca9ec20c67b77d45d4e1e5e5abf87a5d04a`.
 The desktop bundle was not tested on Intel Macs, other macOS releases, Windows or
-Linux. The Python CLI explicitly does not claim Windows support.
+Linux. Its ZIP was separately extracted, its ad-hoc signature verified, and the extracted executable launched successfully. The DMG checksum was verified with hdiutil. The Python CLI explicitly does not claim Windows support.
 
 Physical microphone recording/permission behavior was implemented but not tested
 against a user's live microphone; no permission was silently granted and no

@@ -35,5 +35,7 @@
   },
   "limits": "One short real speech excerpt is an integration smoke test, not a recognition-quality, multilingual or long-file benchmark.",
   "saved_transcript": "And so, my fellow Americans ask not what your country can do for you. ask what you can do for your country.",
-  "restart_preserved_title_and_text": true
+  "restart_preserved_title_and_text": true,
+  "wheel_clean_install_verified": true,
+  "github_ci_jobs_passed": 4
 }
