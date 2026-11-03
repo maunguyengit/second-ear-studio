@@ -1,0 +1,338 @@
+[
+  {
+    "name": "uvicorn",
+    "version": "0.54.0",
+    "notices": [
+      "uvicorn/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "84.2.1",
+    "notices": [
+      "setuptools/licenses/LICENSE",
+      "setuptools/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+      "setuptools/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+      "setuptools/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/jaraco.text-4.0.0.dist-info/LICENSE",
+      "setuptools/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+      "setuptools/_vendor/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+      "setuptools/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE",
+      "setuptools/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+      "setuptools/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic",
+    "version": "2.14.2",
+    "notices": [
+      "pydantic/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.9",
+    "notices": [
+      "pyinstaller-hooks-contrib/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "starlette",
+    "version": "1.10.0",
+    "notices": [
+      "starlette/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "notices": [
+      "click/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "notices": [
+      "packaging/licenses/LICENSE",
+      "packaging/licenses/LICENSE.APACHE",
+      "packaging/licenses/LICENSE.BSD"
+    ]
+  },
+  {
+    "name": "protobuf",
+    "version": "7.36.2",
+    "notices": [
+      "protobuf/LICENSE"
+    ]
+  },
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "notices": [
+      "altgraph/LICENSE"
+    ]
+  },
+  {
+    "name": "Pygments",
+    "version": "2.21.0",
+    "notices": [
+      "Pygments/licenses/AUTHORS",
+      "Pygments/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "certifi",
+    "version": "2026.10.23",
+    "notices": [
+      "certifi/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.50.2",
+    "notices": [
+      "pydantic_core/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "iniconfig",
+    "version": "2.3.1",
+    "notices": [
+      "iniconfig/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "build",
+    "version": "1.6.1",
+    "notices": [
+      "build/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "httpcore",
+    "version": "1.0.9",
+    "notices": [
+      "httpcore/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "numpy",
+    "version": "2.5.4",
+    "notices": [
+      "numpy/licenses/LICENSE.txt",
+      "numpy/licenses/numpy/_core/include/numpy/libdivide/LICENSE.txt",
+      "numpy/licenses/numpy/_core/src/common/pythoncapi-compat/COPYING",
+      "numpy/licenses/numpy/_core/src/highway/LICENSE",
+      "numpy/licenses/numpy/_core/src/multiarray/dragon4_LICENSE.txt",
+      "numpy/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
+      "numpy/licenses/numpy/_core/src/umath/svml/LICENSE",
+      "numpy/licenses/numpy/fft/pocketfft/LICENSE.md",
+      "numpy/licenses/numpy/linalg/lapack_lite/LICENSE.txt",
+      "numpy/licenses/numpy/ma/LICENSE",
+      "numpy/licenses/numpy/random/LICENSE.md",
+      "numpy/licenses/numpy/random/src/distributions/LICENSE.md",
+      "numpy/licenses/numpy/random/src/mt19937/LICENSE.md",
+      "numpy/licenses/numpy/random/src/pcg64/LICENSE.md",
+      "numpy/licenses/numpy/random/src/philox/LICENSE.md",
+      "numpy/licenses/numpy/random/src/sfc64/LICENSE.md",
+      "numpy/licenses/numpy/random/src/splitmix64/LICENSE.md"
+    ]
+  },
+  {
+    "name": "pluggy",
+    "version": "1.7.0",
+    "notices": [
+      "pluggy/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "opentelemetry-api",
+    "version": "1.45.2",
+    "notices": [
+      "opentelemetry-api/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "tqdm",
+    "version": "4.70.1",
+    "notices": [
+      "tqdm/licenses/LICENCE"
+    ]
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "notices": [
+      "h11/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.22.3",
+    "notices": [
+      "pyinstaller/licenses/COPYING.txt"
+    ]
+  },
+  {
+    "name": "pyproject_hooks",
+    "version": "1.3.3",
+    "notices": [
+      "pyproject_hooks/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "PyYAML",
+    "version": "6.0.3",
+    "notices": [
+      "PyYAML/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "macholib",
+    "version": "1.16.4",
+    "notices": [
+      "macholib/LICENSE"
+    ]
+  },
+  {
+    "name": "httpcore2",
+    "version": "2.16.0",
+    "notices": [
+      "httpcore2/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "fsspec",
+    "version": "2026.9.0",
+    "notices": [
+      "fsspec/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "truststore",
+    "version": "0.10.5",
+    "notices": [
+      "truststore/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "httpx2",
+    "version": "2.16.0",
+    "notices": [
+      "httpx2/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "pytest",
+    "version": "9.2.0",
+    "notices": [
+      "pytest/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.8.0",
+    "notices": [
+      "annotated-types/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "annotated-doc",
+    "version": "0.0.5",
+    "notices": [
+      "annotated-doc/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4",
+    "notices": [
+      "typing-inspection/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "fastapi",
+    "version": "0.162.0",
+    "notices": [
+      "fastapi/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "anyio",
+    "version": "4.16.0",
+    "notices": [
+      "anyio/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "filelock",
+    "version": "4.2.7",
+    "notices": [
+      "filelock/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "av",
+    "version": "19.0.2",
+    "notices": [
+      "av/licenses/AUTHORS.py",
+      "av/licenses/AUTHORS.rst",
+      "av/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "python-multipart",
+    "version": "0.0.33",
+    "notices": [
+      "python-multipart/licenses/LICENSE.txt"
+    ]
+  },
+  {
+    "name": "httpx",
+    "version": "0.28.1",
+    "notices": [
+      "httpx/licenses/LICENSE.md"
+    ]
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "notices": [
+      "typing_extensions/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "hf-xet",
+    "version": "1.8.0",
+    "notices": [
+      "hf-xet/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "faster-whisper",
+    "version": "1.2.1",
+    "notices": [
+      "faster-whisper/LICENSE"
+    ]
+  },
+  {
+    "name": "huggingface_hub",
+    "version": "2.4.0",
+    "notices": [
+      "huggingface_hub/licenses/LICENSE"
+    ]
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "notices": [
+      "idna/licenses/LICENSE.md"
+    ]
+  }
+]

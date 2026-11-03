@@ -1,0 +1,8 @@
+include LICENSE README.md THIRD-PARTY.md requirements.lock tokens.css
+recursive-include src/second_ear/web *
+recursive-include src/second_ear/sample *.wav
+recursive-include tests *.py
+recursive-include scripts *.py *.icns
+recursive-include docs *.md *.json *.png *.srt
+recursive-include licenses *
+global-exclude __pycache__ *.pyc .DS_Store

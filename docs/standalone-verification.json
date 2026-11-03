@@ -1,0 +1,39 @@
+{
+  "test": "Final Apple Silicon standalone app, new empty library, developer environment removed",
+  "local_date": "2026-11-02",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "machine": "arm64",
+  "processor": "Apple M4",
+  "bundled_model_ready_without_setup": true,
+  "external_library_model_directory_absent": true,
+  "model_revision": "0d3d19a32d3338f10357c0889762bd8d64bbdeba",
+  "audio_seconds": 11.0,
+  "worker_elapsed_seconds": 0.531,
+  "actual_transcript": "And so, my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+  "segments": 2,
+  "waveform_points": 720,
+  "saved_revision": 2,
+  "stale_save_rejected": true,
+  "audio_byte_range_verified": true,
+  "exports": {
+    "txt": {
+      "bytes": 109,
+      "status": 200
+    },
+    "srt": {
+      "bytes": 173,
+      "status": 200
+    },
+    "vtt": {
+      "bytes": 177,
+      "status": 200
+    },
+    "json": {
+      "bytes": 2045,
+      "status": 200
+    }
+  },
+  "limits": "One short real speech excerpt is an integration smoke test, not a recognition-quality, multilingual or long-file benchmark.",
+  "saved_transcript": "And so, my fellow Americans ask not what your country can do for you. ask what you can do for your country.",
+  "restart_preserved_title_and_text": true
+}

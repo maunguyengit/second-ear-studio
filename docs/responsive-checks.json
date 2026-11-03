@@ -1,0 +1,64 @@
+{
+  "welcome": [
+    {
+      "dropWidth": 265,
+      "scrollWidth": 305,
+      "settingsVisible": true,
+      "width": 320
+    },
+    {
+      "dropWidth": 320,
+      "scrollWidth": 360,
+      "settingsVisible": true,
+      "width": 375
+    },
+    {
+      "dropWidth": 359,
+      "scrollWidth": 399,
+      "settingsVisible": true,
+      "width": 414
+    },
+    {
+      "dropWidth": 703,
+      "scrollWidth": 753,
+      "settingsVisible": true,
+      "width": 768
+    }
+  ],
+  "editor": [
+    {
+      "exportEnabled": true,
+      "scrollWidth": 305,
+      "settingsVisible": true,
+      "title": "Real speech — saved edit verification",
+      "width": 320
+    },
+    {
+      "exportEnabled": true,
+      "scrollWidth": 360,
+      "settingsVisible": true,
+      "title": "Real speech — saved edit verification",
+      "width": 375
+    },
+    {
+      "exportEnabled": true,
+      "scrollWidth": 399,
+      "settingsVisible": true,
+      "title": "Real speech — saved edit verification",
+      "width": 414
+    },
+    {
+      "exportEnabled": true,
+      "scrollWidth": 768,
+      "settingsVisible": true,
+      "title": "Real speech — saved edit verification",
+      "width": 768
+    }
+  ],
+  "narrowSettings": {
+    "dialogOpen": true,
+    "installedModelVisible": true,
+    "quitVisible": true,
+    "width": 320
+  }
+}

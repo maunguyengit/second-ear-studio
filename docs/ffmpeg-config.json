@@ -1,0 +1,8 @@
+{
+  "avcodec_license": "LGPL version 3 or later",
+  "avcodec_configuration": "--disable-static --enable-shared --libdir=/tmp/vendor/lib --prefix=/tmp/vendor --disable-programs --disable-doc --disable-libxml2 --disable-lzma --disable-libtheora --disable-libfreetype --disable-libfontconfig --disable-libbluray --disable-libopenjpeg --disable-mediafoundation --enable-version3 --disable-alsa --disable-gnutls --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-libsvtav1 --enable-libvmaf --enable-libvpx --enable-libwebp --disable-libxcb --enable-zlib --enable-libx265 --enable-libx264 --enable-videotoolbox --enable-audiotoolbox --extra-ldflags='-Wl,-ld_classic' --disable-encoder='avui,dca,mlp,opus,s302m,sonic,sonic_ls,truehd' --disable-decoder=sonic --disable-libjack --disable-indev=jack --disable-filter=gfxcapture",
+  "avcodec_version": 4129126,
+  "avutil_license": "LGPL version 3 or later",
+  "avutil_configuration": "--disable-static --enable-shared --libdir=/tmp/vendor/lib --prefix=/tmp/vendor --disable-programs --disable-doc --disable-libxml2 --disable-lzma --disable-libtheora --disable-libfreetype --disable-libfontconfig --disable-libbluray --disable-libopenjpeg --disable-mediafoundation --enable-version3 --disable-alsa --disable-gnutls --enable-libdav1d --enable-libmp3lame --enable-libopus --enable-libsvtav1 --enable-libvmaf --enable-libvpx --enable-libwebp --disable-libxcb --enable-zlib --enable-libx265 --enable-libx264 --enable-videotoolbox --enable-audiotoolbox --extra-ldflags='-Wl,-ld_classic' --disable-encoder='avui,dca,mlp,opus,s302m,sonic,sonic_ls,truehd' --disable-decoder=sonic --disable-libjack --disable-indev=jack --disable-filter=gfxcapture",
+  "avutil_version": 3998054
+}

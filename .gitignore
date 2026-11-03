@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+*.spec
+.DS_Store
+recordings/
+models/
+library.sqlite3*
+application.log
+server.lock
+.model-cache/

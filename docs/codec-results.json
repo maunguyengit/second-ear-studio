@@ -1,0 +1,58 @@
+[
+  {
+    "format": ".mp3",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.587,
+    "transcript": "And so, my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".mp4",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.585,
+    "transcript": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".flac",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.46,
+    "transcript": "And so, my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".webm",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.431,
+    "transcript": "And so, my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".ogg",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.492,
+    "transcript": "And so, my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".m4a",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.458,
+    "transcript": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  },
+  {
+    "format": ".mp4 with MPEG-4 video + AAC audio",
+    "status": "completed",
+    "duration": 11.0,
+    "elapsed": 0.474,
+    "transcript": "And so my fellow Americans ask not what your country can do for you ask what you can do for your country.",
+    "error": null
+  }
+]
